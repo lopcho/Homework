@@ -10,7 +10,7 @@
 }
 
 .upper {
-    background-color: green;
+    background-color: rgb(24, 29, 24);
     position: relative;
     width: 80px;
     height: 80px;
@@ -26,7 +26,7 @@
 
 .middle1,
 .middle2 {
-    background-color: green;
+    background-color: rgb(34, 36, 34);
     width: 80px;
     height: 80px;
     display: inline-block;
